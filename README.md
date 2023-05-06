@@ -19,8 +19,6 @@
 📝 T. Weerasinghe, I. A. M. Balapuwaduge, and F. Y. Li, Time-Space Domain Availability Analysis under Reliability Impairments, IEEE Networking Letters, vol. 1, no. 3, pp. 103-106, Sep. 2019. <a href="https://ieeexplore.ieee.org/document/8715374">DOI:10.1109/LNET.2019.2916909</a><br/>
 📝 I. A. M. Balapuwaduge, F. Y. Li, and V. Pla, Dynamic Spectrum Reservation for CR Networks in the Presence of Channel Failures: Channel Allocation and Reliability Analysis, IEEE Transactions on Wireless Communications, pp. 882 - 898, vol. 17, no. 2, Feb. 2018. <a href="http://ieeexplore.ieee.org/document/8107521">DOI:10.1109/TWC.2017.2772240</a><br/> 
    
-<p>
-
 ## Recent Projects
 📝 A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. [Acronym: SOLID-B5G](https://solid-b5g.upb.ro/)<br>
 This project is funded by the EEA Norway Grants RO-NO Program 2019. , Project No. RONO-2019-0499.<br>
@@ -33,6 +31,5 @@ The main objective of this project is to develop a smart monitoring and decision
  📝 Elevating the Quality of Education in ICT towards 2030 through Multilateral Collaborations (2023 - 2026). [Acronym: EQEI](https://www.uia.no/en/research/research-projects/elevating-the-quality-of-education-in-ict-towards-2030-through-multilateral-collaborations-eqei)<br>
 The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.
   
-</p>
 
 
