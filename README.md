@@ -11,4 +11,7 @@ In this project, I contributed for proposal writing. This project is one of the 
 This project is funded by the IKTPLUS-ICT and Digital Innovation, Project No. 309257.<br>
 The main objective of this project is to develop a smart monitoring and decision-making support system, which will be built based on non-intrusive IoT devices and ML aided predictive analytics, for behavior analysis and prevention of agitation and accidents for inpatients in hospital healthcare. In this project, I am serving as a Researcher.
 
+  ### Elevating the Quality of Education in ICT towards 2030 through Multilateral Collaborations (2023 - 2026). [Acronym: EQEI](https://www.uia.no/en/research/research-projects/elevating-the-quality-of-education-in-ict-towards-2030-through-multilateral-collaborations-eqei)<br>
+The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.
+  
 </p>
