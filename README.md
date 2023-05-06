@@ -11,13 +11,13 @@
   </tr>
 </table>
 
-   
 ## Journal Papers
 📝 T. Weerasinghe, V. Casares-Giner, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255">DOI:10.1109/TCOMM.2021.3053990</a><br/>
 📝 T. Weerasinghe, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis, Computer Networks, vol. 178, Sep. 2020. <a href="https://doi.org/10.1016/j.comnet.2020.107360">DOI:10.1016/j.comnet.2020.107360</a><br/>
 📝 H. V. K. Mendis, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Dependability-based Reliability Analysis in URLLC Networks: Availability in the Space Domain, IEEE/ACM Transactions on Networking, vol. 27, no. 5, pp. 1915-1930, Oct. 2019. <a href="https://ieeexplore.ieee.org/document/8836118">DOI:10.1109/TNET.2019.2934826</a><br/>
 📝 T. Weerasinghe, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Time-Space Domain Availability Analysis under Reliability Impairments, IEEE Networking Letters, vol. 1, no. 3, pp. 103-106, Sep. 2019. <a href="https://ieeexplore.ieee.org/document/8715374">DOI:10.1109/LNET.2019.2916909</a><br/>
 📝 <b>I. A. M. Balapuwaduge</b>, F. Y. Li, and V. Pla, Dynamic Spectrum Reservation for CR Networks in the Presence of Channel Failures: Channel Allocation and Reliability Analysis, IEEE Transactions on Wireless Communications, pp. 882 - 898, vol. 17, no. 2, Feb. 2018. <a href="http://ieeexplore.ieee.org/document/8107521">DOI:10.1109/TWC.2017.2772240</a><br/> 
+📝 <b>I. A. M. Balapuwaduge</b>, F. Y. Li, and V. Pla, System Times and Channel Availability for Secondary Transmissions in CRNs: A Dependability Theory based Analysis", IEEE Transactions on Vehicular Technology, pp. 2771 - 2788, vol. 66, no. 3, Mar. 2017. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7500036">DOI:10.1109/TVT.2016.2585200</a><br/> 
    
 ## Recent Projects
 📝 A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. [Acronym: SOLID-B5G](https://solid-b5g.upb.ro/)<br>
