@@ -1,5 +1,11 @@
 # IndikaAnuradha.github.io
 
+<style>
+  table, td, th {
+    border: none;
+  }
+</style>
+
 <table>
   <tr>
     <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="1300"></td>
