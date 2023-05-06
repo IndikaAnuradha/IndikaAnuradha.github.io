@@ -3,7 +3,7 @@
 <p>
 
 ## 📝 Recent Projects
-### [ A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. (Acronym: SOLID-B5G: ](https://solid-b5g.upb.ro/)<br>
+### [A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. (Acronym: SOLID-B5G:](https://solid-b5g.upb.ro/)<br>
 This project is funded by the EEA Norway Grants RO-NO Program 2019. , Project No. RONO-2019-0499.<br>
 In this project, I contributed for proposal writing. This project is one of the 26 projects selected from 285 proposals which were submitted to the same call in Dec. 2019. Currently, I am serving as a Research Engineer.
 
