@@ -11,7 +11,7 @@
         <li>If you love solving <a href="https://leetcode.com/">LeetCode</a> problems, don't forget to look into <a href="https://github.com/Tahanima/leetcode-solution-curation">this</a> repository.</li>
       </ul>
       
-    </td>
+  
   </tr>
  
 </table>
