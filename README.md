@@ -14,7 +14,7 @@
    
 ## Journal Papers
 📝 T. Weerasinghe, V. Casares-Giner, I. A. M. Balapuwadug, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255">DOI:10.1109/TCOMM.2021.3053990</a><br/>
-📝 T. Weerasinghe, I. A. M. Balapuwaduge, and F. Y. Li, Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis, Computer Networks, vol. 178, Sep. 2020.<br/>
+📝 T. Weerasinghe, I. A. M. Balapuwaduge, and F. Y. Li, Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis, Computer Networks, vol. 178, Sep. 2020. <a href="https://doi.org/10.1016/j.comnet.2020.107360">10.1016/j.comnet.2020.107360</a><br/>
 📝 Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
 📝 Have mastered many areas of programming like Web Development and server-side programming.<br/>
 📝 I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
