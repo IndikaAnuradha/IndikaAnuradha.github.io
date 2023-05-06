@@ -12,6 +12,10 @@
   </tr>
 </table>
 
+Some things about me :<br/>
+:one: Programming language developer<br/>
+:two: Full stack developer and IT professional with over 10 years of experience.<br/>
+
 <p>
 
 ## 📝 Recent Projects
