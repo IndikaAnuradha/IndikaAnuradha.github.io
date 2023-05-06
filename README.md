@@ -19,7 +19,7 @@ The main objective of the EQEI project is to elevate the quality of education an
 
 <table>
   <tr>
-    <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil"></td>
+    <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="200" height="200"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
