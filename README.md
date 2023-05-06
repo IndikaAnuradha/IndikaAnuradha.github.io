@@ -10,7 +10,6 @@
     </td>
   </tr>
 </table>
-
 <p>
 
 ## 📝 Journal Papers
