@@ -1,4 +1,21 @@
 # IndikaAnuradha.github.io
+
+<table>
+  <tr>
+    <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="220"></td>
+    <td>
+      <ul>
+        <li>I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I graduated from the University of Ruhuna (UoR), Sri Lanka with a Bachelor of Science in Engineering degree (First class Honors) in 2008. I completed my Master's degree with a specialization in ICT at the UiA, Norway in 2012. Therein, I received the award for the Best Master's thesis in the field of ICT. I received my Ph.D. from the UiA in November 2016. I worked as a Postdoctoral fellow for three years belonging to the Electronics and IoT research group at the Department of ICT at UiA. Then I worked as a Senior Lecturer at the Faculty of Engineering, UoR for two years.</li>
+        <li>I’m a <em>Software Engineer II, QA</em> at <a href="https://therapbd.com/">Therap (BD) Ltd.</a> and a <em>Freelance Technical Writer</em> at  <a href="https://draft.dev/">Draft.dev</a></li>
+        <li>I have a <a href="https://tahanima.github.io/">personal blog</a> where you can find a lot of recruitment-related content in the context of Bangladesh.</li>
+        <li>If you love solving <a href="https://leetcode.com/">LeetCode</a> problems, don't forget to look into <a href="https://github.com/Tahanima/leetcode-solution-curation">this</a> repository.</li>
+      </ul>
+      
+    </td>
+  </tr>
+ 
+</table>
+
 #### I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I graduated from the University of Ruhuna (UoR), Sri Lanka with a Bachelor of Science in Engineering degree (First class Honors) in 2008. I completed my Master's degree with a specialization in ICT at the UiA, Norway in 2012. Therein, I received the award for the Best Master's thesis in the field of ICT. I received my Ph.D. from the UiA in November 2016. I worked as a Postdoctoral fellow for three years belonging to the Electronics and IoT research group at the Department of ICT at UiA. Then I worked as a Senior Lecturer at the Faculty of Engineering, UoR for two years.
 <p>
 
@@ -17,18 +34,3 @@ The main objective of the EQEI project is to elevate the quality of education an
 </p>
 
 
-<table>
-  <tr>
-    <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="220"></td>
-    <td>
-      <ul>
-        <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
-        <li>I’m a <em>Software Engineer II, QA</em> at <a href="https://therapbd.com/">Therap (BD) Ltd.</a> and a <em>Freelance Technical Writer</em> at  <a href="https://draft.dev/">Draft.dev</a></li>
-        <li>I have a <a href="https://tahanima.github.io/">personal blog</a> where you can find a lot of recruitment-related content in the context of Bangladesh.</li>
-        <li>If you love solving <a href="https://leetcode.com/">LeetCode</a> problems, don't forget to look into <a href="https://github.com/Tahanima/leetcode-solution-curation">this</a> repository.</li>
-      </ul>
-      
-    </td>
-  </tr>
- 
-</table>
