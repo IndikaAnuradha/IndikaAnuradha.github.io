@@ -13,7 +13,7 @@
 
    
 ## Journal Papers
-📝 T. Weerasinghe, V. Casares-Giner, I. A. M. Balapuwadug, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255">DOI:10.1109/TCOMM.2021.3053990</a><br/>
+📝 T. Weerasinghe, V. Casares-Giner, <b>I. A. M. Balapuwadug</b>, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255">DOI:10.1109/TCOMM.2021.3053990</a><br/>
 📝 T. Weerasinghe, I. A. M. Balapuwaduge, and F. Y. Li, Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis, Computer Networks, vol. 178, Sep. 2020. <a href="https://doi.org/10.1016/j.comnet.2020.107360">DOI:10.1016/j.comnet.2020.107360</a><br/>
 📝 H. V. K. Mendis, I. A. M. Balapuwaduge, and F. Y. Li, Dependability-based Reliability Analysis in URLLC Networks: Availability in the Space Domain, IEEE/ACM Transactions on Networking, vol. 27, no. 5, pp. 1915-1930, Oct. 2019. <a href="https://ieeexplore.ieee.org/document/8836118">DOI:10.1109/TNET.2019.2934826</a><br/>
 📝 T. Weerasinghe, I. A. M. Balapuwaduge, and F. Y. Li, Time-Space Domain Availability Analysis under Reliability Impairments, IEEE Networking Letters, vol. 1, no. 3, pp. 103-106, Sep. 2019. <a href="https://ieeexplore.ieee.org/document/8715374">DOI:10.1109/LNET.2019.2916909</a><br/>
