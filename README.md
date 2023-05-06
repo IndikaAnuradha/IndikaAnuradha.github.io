@@ -3,17 +3,12 @@
 <p>
 
 ## 📝 Recent Projects
-### A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. [Acronym: SOLID-B5G)](https://solid-b5g.upb.ro/)<br>
+### A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. [Acronym: SOLID-B5G](https://solid-b5g.upb.ro/)<br>
 This project is funded by the EEA Norway Grants RO-NO Program 2019. , Project No. RONO-2019-0499.<br>
 In this project, I contributed for proposal writing. This project is one of the 26 projects selected from 285 proposals which were submitted to the same call in Dec. 2019. Currently, I am serving as a Research Engineer.
 
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
-
-
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+### Orchestrating Internet of Things and Machine Learning for Early Risk Detection to Ensure Inpatients Safety. [Acronym: StaySafe](https://prosjektbanken.forskningsradet.no/project/FORISS/309257)<br>
+This project is funded by the IKTPLUS-ICT and Digital Innovation, Project No. 309257.<br>
+The main objective of this project is to develop a smart monitoring and decision-making support system, which will be built based on non-intrusive IoT devices and ML aided predictive analytics, for behavior analysis and prevention of agitation and accidents for inpatients in hospital healthcare. In this project, I am serving as a Researcher.
 
 </p>
