@@ -12,9 +12,11 @@
   </tr>
 </table>
 
-Some things about me :<br/>
-:one: Programming language developer<br/>
-:two: Full stack developer and IT professional with over 10 years of experience.<br/>
+<p>
+
+## 📝 Journal Papers
+:one: T. Weerasinghe, V. Casares-Giner, I. A. M. Balapuwadug}, and F. Y. Li, ``Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks", IEEE Transactions on Communication}, vol. 69, no. 5, May 2021<br/>
+:two: T. Weerasinghe, I. A. M. Balapuwaduge, and F. Y. Li, ``Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis", Computer Networks, vol. 178, Sep. 2020.<br/>
 
 <p>
 
