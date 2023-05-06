@@ -11,14 +11,6 @@
   </tr>
 </table>
 
-<div class="content">
-   <p>My research aims at understanding, designing, and
-                  developing solutions for efficient networking, mostly
-                  in the context of spectrum sharing and resource allocation in wireless networks. You can see <a
-                    href="https://people.utwente.nl/s.bayhan"
-                    target="_blank">my UT profile page here.</a>
-        </p>
-              </div>
    
 ## Journal Papers
 :one: T. Weerasinghe, V. Casares-Giner, I. A. M. Balapuwadug, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255">DOI:10.1109/TCOMM.2021.3053990</a><br/>
