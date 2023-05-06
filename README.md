@@ -3,9 +3,9 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [ A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. (Acronym: SOLID-B5G: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
+This project is funded by the EEA Norway Grants RO-NO Program 2019. , Project No. RONO-2019-0499.<br>
+In this project, I contributed for proposal writing. This project is one of the 26 projects selected from 285 proposals which were submitted to the same call in Dec. 2019. Currently, I am serving as a Research Engineer.
 
 ### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
