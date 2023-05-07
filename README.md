@@ -18,7 +18,7 @@
 </table>
 
 ## Education
-<font size="4">
+<font size="2">
 🎓 Doctor of Philosophy in Information and Communication Technology (Sep 2012 - Nov 2016)<br/>
 University of Agder (UiA), Norway<br/>
 🎓 Master of Science in Information and Communication Technology (Aug 2010 - Jul 2012)<br/>
