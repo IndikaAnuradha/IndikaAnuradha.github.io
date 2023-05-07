@@ -117,18 +117,18 @@ Topic: Acoustic echo cancellation for handsfree applications using adaptive filt
    
 <table style="border-collapse: collapse;">
    <tr>
-    <td>yyyy</td>
+    <td>Dynamic Spectrum Allocation (DSA) in Wireless Networks</td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(120, 80%, 90%)">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>         
+         <div align="justify" style="background-color: hsl(60, 80%, 90%)">While pursuing my Doctoral degree, my research centered around dynamic spectrum allocation (DSA) strategies aimed at achieving satisfactory performance for both primary and secondary users in cognitive radio networks. The focus of my dissertation was on facilitating greater channel access opportunities for secondary users through the implementation of four techniques: channel aggregation, priority-based queues, spectrum leasing, and channel reservation.</div><br/>         
        </ul>
     </td>
   </tr>
     <tr>
-    <td>XXX</td>
+    <td>Resiliency and Dependability Analysis</td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(120, 80%, 90%)">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>     
+         <div align="justify" style="background-color: hsl(60, 80%, 90%)">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>     
       </ul>      
     </td>
   </tr>
