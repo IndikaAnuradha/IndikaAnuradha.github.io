@@ -1,4 +1,6 @@
 ## Indika A. M. Balapuwaduge
+email: indika.balapuwaduge@uia.no<br/>
+Office A2101, Department of ICT, University of Agder, Jon Lilletuns vei 9, Grimstad, Norway<br/>
 
 <table style="border-collapse: collapse;">
    <tr>
