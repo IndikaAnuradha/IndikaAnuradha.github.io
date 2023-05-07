@@ -2,7 +2,7 @@
 
 <table>
    <tr>
-    <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="1300"></td>
+    <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="500"></td>
     <td>
       <ul>
         I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. <br/>         
