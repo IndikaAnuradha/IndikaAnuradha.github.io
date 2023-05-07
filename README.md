@@ -19,12 +19,9 @@
 
 ### Education
 <font size="3">
-<li>Doctor of Philosophy in Information and Communication Technology (Sep 2012 - Nov 2016)</li>
-University of Agder (UiA), Norway<br/>
-<li>Master of Science in Information and Communication Technology (Aug 2010 - Jul 2012)</li>
-University of Agder (UiA), Norway<br/>
-<li>Bachelor of Science in Engineering (Sep 2003 - Jun 2008)</li>
-University of Ruhuna, Sri Lanka </font><br/>
+<li>Doctor of Philosophy in Information and Communication Technology (Sep 2012 - Nov 2016) University of Agder (UiA), Norway</li>
+<li>Master of Science in Information and Communication Technology (Aug 2010 - Jul 2012) University of Agder (UiA), Norway</li>
+<li>Bachelor of Science in Engineering (Sep 2003 - Jun 2008) University of Ruhuna, Sri Lanka</li></font><br/>
 
 ### Employment History
 <font size="3">
@@ -38,10 +35,10 @@ University of Ruhuna, Sri Lanka </font><br/>
 
 ### Journal Papers
 <font size="3">
-📝 T. Weerasinghe, V. Casares-Giner, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255"
-target="_blank">DOI:10.1109/TCOMM.2021.3053990</a><br/>
-📝 T. Weerasinghe, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis, Computer Networks, vol. 178, Sep. 2020. <a href="https://doi.org/10.1016/j.comnet.2020.107360"
-target="_blank">DOI:10.1016/j.comnet.2020.107360</a><br/>
+<li>T. Weerasinghe, V. Casares-Giner, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255"
+target="_blank">DOI:10.1109/TCOMM.2021.3053990</a></li>
+<li>T. Weerasinghe, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis, Computer Networks, vol. 178, Sep. 2020. <a href="https://doi.org/10.1016/j.comnet.2020.107360"
+target="_blank">DOI:10.1016/j.comnet.2020.107360</a></li>
 📝 H. V. K. Mendis, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Dependability-based Reliability Analysis in URLLC Networks: Availability in the Space Domain, IEEE/ACM Transactions on Networking, vol. 27, no. 5, pp. 1915-1930, Oct. 2019. <a href="https://ieeexplore.ieee.org/document/8836118"
 target="_blank">DOI:10.1109/TNET.2019.2934826</a><br/>
 📝 T. Weerasinghe, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Time-Space Domain Availability Analysis under Reliability Impairments, IEEE Networking Letters, vol. 1, no. 3, pp. 103-106, Sep. 2019. <a href="https://ieeexplore.ieee.org/document/8715374"
