@@ -19,9 +19,12 @@
 
 ### Education
 <font size="3">
-<li>Doctor of Philosophy in Information and Communication Technology (Sep 2012 - Nov 2016) University of Agder (UiA), Norway</li>
-<li>Master of Science in Information and Communication Technology (Aug 2010 - Jul 2012) University of Agder (UiA), Norway</li>
-<li>Bachelor of Science in Engineering (Sep 2003 - Jun 2008) University of Ruhuna, Sri Lanka</li></font><br/>
+   ul {
+  list-style-type: square; /* creates bullet points using filled circles */
+}
+<ul>Doctor of Philosophy in Information and Communication Technology (Sep 2012 - Nov 2016) University of Agder (UiA), Norway</ul>
+<ul>Master of Science in Information and Communication Technology (Aug 2010 - Jul 2012) University of Agder (UiA), Norway</ul>
+<ul>Bachelor of Science in Engineering (Sep 2003 - Jun 2008) University of Ruhuna, Sri Lanka</ul></font><br/>
 
 ### Employment History
 <font size="3">
