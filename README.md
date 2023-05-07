@@ -111,7 +111,7 @@ Topic: Autonomous Navigation of a Surveillance Robot in a Simulated Static Indoo
 <li>Amith Mallawaarachchi: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
 Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 5G Massive MIMO Networks <br>
 <li>Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
-Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li><br/>
+Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li></font><br/>
    
 ### Research Highlights
    
@@ -120,7 +120,8 @@ Topic: Acoustic echo cancellation for handsfree applications using adaptive filt
     <td>Dynamic Spectrum Allocation (DSA) in Wireless Networks</td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(60, 80%, 90%)">While pursuing my Doctoral degree, my research centered around dynamic spectrum allocation (DSA) strategies aimed at achieving satisfactory performance for both primary and secondary users in cognitive radio networks. The focus of my dissertation was on facilitating greater channel access opportunities for secondary users through the implementation of four techniques: channel aggregation, priority-based queues, spectrum leasing, and channel reservation.</div><br/>         
+         <div align="justify" style="background-color: hsl(60, 80%, 90%)">While pursuing my Doctoral degree, my research centered around dynamic spectrum allocation (DSA) strategies aimed at achieving satisfactory performance for both primary and secondary users in cognitive radio networks. The focus of my dissertation was on facilitating greater channel access opportunities for secondary users through the implementation of four techniques: channel aggregation, priority-based queues, spectrum leasing, and channel reservation. Enabling real-time and quality of service (QoS) applications in wireless communication networks is a challenging task. This is due to the certain characteristics of such networks, like limited battery capacity, limited processing power, and limited storage. In <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
+target="_blank">the article</a>, we propose a priority-based queuing system which can be applied over a CRN where the queuing schemes are introduced based on the delay tolerance of interrupted services. </div><br/>         
        </ul>
     </td>
   </tr>
