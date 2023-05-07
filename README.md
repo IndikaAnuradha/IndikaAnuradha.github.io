@@ -18,7 +18,7 @@
 </table>
 
 ## Education
-<font size="1">
+<font size="4">
 🎓 Doctor of Philosophy in Information and Communication Technology (Sep 2012 - Nov 2016)<br/>
 University of Agder (UiA), Norway<br/>
 🎓 Master of Science in Information and Communication Technology (Aug 2010 - Jul 2012)<br/>
@@ -27,13 +27,14 @@ University of Agder (UiA), Norway<br/>
 University of Ruhuna, Sri Lanka </font><br/>
 
 ## Employment History
+<font size="3">
 💼 <b>Researcher:</b> Department of Information and Communications Technology (ICT), University of Agder (11.2022 - present)<br/>
 💼 <b>Senior Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (05.2020 - 11.2022) <br/>
 💼 <b>Post-doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (03.2017 - 03.2020)<br/>
 💼 <b>Doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (09.2012 - 11.2016)<br/>
 💼 <b>Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (08.2009 - 08.2010)<br/>
 💼 <b>Engineer:</b> 	HUAWEI Technologies Lanka Co. (LTD), Sri Lanka (11.2008 - 08.2009)<br/>
-💼 <b>Student Instructor:</b> Department of Inter-disciplinary Studies, University of Ruhuna (07.2008 - 11.2008) <br/>
+💼 <b>Student Instructor:</b> Department of Inter-disciplinary Studies, University of Ruhuna (07.2008 - 11.2008) </font><br/>
 
 ## Journal Papers
 📝 T. Weerasinghe, V. Casares-Giner, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255"
