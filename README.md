@@ -94,7 +94,7 @@ target="_blank">LINK</a></font><br/>
     <td>
       <ul>
          <div align="justify" style="background-color: hsl(60, 90%, 95%)">While pursuing my Doctoral degree, my research centered around dynamic spectrum allocation (DSA) strategies aimed at achieving satisfactory performance for both primary and secondary users in cognitive radio networks. The focus of my dissertation was on facilitating greater channel access opportunities for secondary users through the implementation of four techniques: channel aggregation, priority-based queues, spectrum leasing, and channel reservation. Enabling real-time and quality of service (QoS) applications in wireless communication networks is a challenging task. This is due to the certain characteristics of such networks, like limited battery capacity, limited processing power, and limited storage. In <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
-target="_blank">this TWC</a>, we propose a priority-based queuing system which can be applied over a CRN where the queuing schemes are introduced based on the delay tolerance of interrupted services. </div><br/>         
+target="_blank">this TWC</a>, we propose a priority-based queuing system which can be applied over a CRN where the queuing schemes are introduced based on the delay tolerance of interrupted services. This TWC paper received more than <b>80 citations</b>.</div><br/>         
        </ul>
     </td>
   </tr>
@@ -121,7 +121,7 @@ target="_blank">TVT article</a>, we proposes and analyses a dynamic channel rese
     <td><b>Machine Learning in Wireless Communications</b></td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(60, 90%, 95%)">Machine learning is increasingly being applied to various aspects of wireless communications. The use of machine learning in wireless communications holds great promise for improving the efficiency, reliability, and security of wireless networks. In this<a href="https://doi.org/10.1109/ICC.2019.8761913"
+         <div align="justify" style="background-color: hsl(60, 90%, 95%)">Machine learning is increasingly being applied to various aspects of wireless communications. The use of machine learning in wireless communications holds great promise for improving the efficiency, reliability, and security of wireless networks. In this <a href="https://doi.org/10.1109/ICC.2019.8761913"
 target="_blank">IEEE ICC </a> paper, I proposed a machine learning method to enable effective cell association in massive MTC networks. The concept of the solution can be applied in 5G wireless networks which have a large number of devices. Hidden Markov models are taken as the mathematical tool for predicting traffic behavior. </div><br/>     
       </ul>      
     </td>
