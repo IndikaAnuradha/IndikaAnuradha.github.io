@@ -1,6 +1,6 @@
 ## Indika A. M. Balapuwaduge
 
-<table>
+<table style="border-collapse: collapse;">
    <tr>
     <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="500"></td>
     <td>
