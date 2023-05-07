@@ -57,11 +57,11 @@ The main objective of this project is to develop a smart monitoring and decision
  📝 Elevating the Quality of Education in ICT towards 2030 through Multilateral Collaborations (2023 - 2026). [Acronym: EQEI](https://www.uia.no/en/research/research-projects/elevating-the-quality-of-education-in-ict-towards-2030-through-multilateral-collaborations-eqei)<br>
 The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.
   
-## Teaching
-I have previously been involved in teaching the following courses at University of Agder.<br>
+# Teaching
+I have been involved in teaching the following courses at University of Agder.<br>
 📚 IKT444: Mobile Communication Networks<br>
 📚 IKT 443: WiFi and Ad Hoc Networking<br>
-I have previously been involved in teaching the following courses at University of Ruhuna.<br>
+I have been involved in teaching the following courses at University of Ruhuna.<br>
 📚 EE 8210: Digital Communications<br>
 📚 EE 7209: Digital Signal Processing<br>
 📚 EE 6208: Wireless and Mobile Communications<br>
