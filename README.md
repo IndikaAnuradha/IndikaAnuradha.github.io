@@ -72,13 +72,24 @@ I have been involved in teaching the following courses at University of Ruhuna.<
 ## Research Supervision
 I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc students.<br>
 ✏️ Thilina N. Weerasinghe: (PhD, graduated 2021, Co-supervisor), now with University of Ruhuna.<br>
+Topic: Ultra-Reliable communication in 5G networks <br>
 ✏️ Dinithi Vithanage: (MSc, graduated 2020, Co-supervisor), now with University of Wollongong.<br>
+Topic: Efficient cell association techniques in 5G communication networks <br>
 ✏️ Aasmund Søraa: (MSc, graduated 2019, Main supervisor), now with Klaveness Digital.<br>
+Topic: A Machine Learning based Prediction Model for Bursty Traffic in 5G mMTC Networks <br>
 ✏️ Lasse Jørgensen: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
+Topic: Multi-client traffic emulation for On-board WiFi networks: Implementation and real-Life experiments <br>
 ✏️ Diego Centeno Ariza: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
+Topic: Multi-client traffic emulation for On-board WiFi networks: Implementation and real-Life experiments <br>
 ✏️ Kalpanie H. V. Mendis: (MSc, graduated 2017, Co-supervisor), now with the Norwegian University of Science and Technology.<br>
+Topic: Ultra reliable communication in 5G networks: A dependability-based availability analysis in the space domain <br>
 ✏️ Elmira Jalali: (MSc, graduated 2013, Co-supervisor), now Senior Network Reliability Engineer at Yahoo.<br>
+Topic: Channel aggregation for underlay cognitive radio networks: Access schemes and performance evaluation <br>
 ✏️ Gayan Dilanka: (BSc, graduated 2021, Main supervisor), now with Dialog Axiata PLC.<br>
+Topic: Orchestrator for Edge Computing Platforms to Provision Cloud Services at the Mobile Edge <br>
 ✏️ Harith Lakmith: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
+Topic: Autonomous Navigation of a Surveillance Robot in a Simulated Static Indoor Environment <br>
 ✏️ Amith Mallawaarachchi: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
+Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 5G Massive MIMO Networks <br>
 ✏️ Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
+Topic: Acoustic echo cancellation for handsfree applications using adaptive filters <br>
