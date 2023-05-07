@@ -74,9 +74,11 @@ The main objective of the EQEI project is to elevate the quality of education an
  <div align="justify" style="background-color: hsl(120, 90%, 95%)">
   My <b>teaching vision</b> is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates. In the modern era, students learn better through experience with an inductive approach than the traditional deductive learning approach. Therefore, my philosophy is to create an interactive classroom. 
 </div><br>
+   
 I have been involved in teaching the following courses at University of Agder.<br>
 📚 IKT444: Mobile Communication Networks<br>
 📚 IKT 443: WiFi and Ad Hoc Networking<br>
+   
 I have been involved in teaching the following courses at University of Ruhuna.<br>
 📚 EE 8210: Digital Communications<br>
 📚 EE 7209: Digital Signal Processing<br>
@@ -84,6 +86,7 @@ I have been involved in teaching the following courses at University of Ruhuna.<
 📚 EE 5315: Computer Networking<br>
 📚 EE 4310: Communication Theory<br>
 📚 EE 6321: Embedded System Design<br>
+   
 I have developed a Learning Object Repository (LOR) (updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/view/ee7209-dsp/home"
 target="_blank">LINK</a></font><br/>
 
@@ -122,7 +125,7 @@ target="_blank">TVT article</a>, we proposes and analyses a dynamic channel rese
     <td>
       <ul>
          <div align="justify" style="background-color: hsl(60, 90%, 95%)">Machine learning is increasingly being applied to various aspects of wireless communications. The use of machine learning in wireless communications holds great promise for improving the efficiency, reliability, and security of wireless networks. In this <a href="https://doi.org/10.1109/ICC.2019.8761913"
-target="_blank">IEEE ICC </a> paper, I proposed a machine learning method to enable effective cell association in massive MTC networks. The concept of the solution can be applied in 5G wireless networks which have a large number of devices. Hidden Markov models are taken as the mathematical tool for predicting traffic behavior. </div><br/>     
+target="_blank">IEEE ICC</a> paper, I proposed a machine learning method to enable effective cell association in massive MTC networks. The concept of the solution can be applied in 5G wireless networks which have a large number of devices. Hidden Markov models are taken as the mathematical tool for predicting traffic behavior. </div><br/>     
       </ul>      
     </td>
   </tr>
