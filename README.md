@@ -112,8 +112,7 @@ Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 
 <li>Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
 Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li><br/>
    
-### Research Highlights
-   
+### Research Highlights   
 <table style="border-collapse: collapse;">
    <tr>
     <td>Dynamic Spectrum Allocation (DSA) in Wireless Networks</td>
