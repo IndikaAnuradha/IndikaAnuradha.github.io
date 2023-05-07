@@ -27,16 +27,17 @@ University of Agder (UiA), Norway<br/>
 University of Ruhuna, Sri Lanka </font><br/>
 
 ### Employment History
-<font size="2.5">
+<font size="3">
 <li><b>Researcher:</b> Department of Information and Communications Technology (ICT), University of Agder (11.2022 - present)</li>
 <li><b>Senior Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (05.2020 - 11.2022)</li>
 <li><b>Post-doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (03.2017 - 03.2020)</li>
 <li><b>Doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (09.2012 - 11.2016)</li>
 <li><b>Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (08.2009 - 08.2010)</li>
 <li><b>Engineer:</b> 	HUAWEI Technologies Lanka Co. (LTD), Sri Lanka (11.2008 - 08.2009)</li>
-<li><b>Student Instructor:</b> Department of Inter-disciplinary Studies, University of Ruhuna (07.2008 - 11.2008) </font></li><br/>
+<li><b>Student Instructor:</b> Department of Inter-disciplinary Studies, University of Ruhuna (07.2008 - 11.2008) </li></font><br/>
 
-## Journal Papers
+### Journal Papers
+<font size="3">
 📝 T. Weerasinghe, V. Casares-Giner, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority Enabled Grant-Free Access with Dynamic Slot Allocation for Heterogeneous mMTC Traffic in 5G NR Networks, IEEE Transactions on Communication, vol. 69, no. 5, May 2021. <a href="https://ieeexplore.ieee.org/document/9335255"
 target="_blank">DOI:10.1109/TCOMM.2021.3053990</a><br/>
 📝 T. Weerasinghe, <b>I. A. M. Balapuwaduge</b>, and F. Y. Li, Priority-based Initial Access for URLLC Traffic in Massive IoT Networks: Schemes and Performance Analysis, Computer Networks, vol. 178, Sep. 2020. <a href="https://doi.org/10.1016/j.comnet.2020.107360"
@@ -54,7 +55,7 @@ target="_blank">DOI:10.1109/TCOMM.2016.2521723</a><br/>
 📝 <b>I. A. M. Balapuwaduge</b>, L. Jiao, V. Pla, and F. Y. Li, Channel Assembling with Priority-based Queues in Cognitive Radio Networks: Strategies and Performance Evaluation, IEEE Transactions on Wireless Communications, pp. 630-645, vol. 13, no. 2, Feb. 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
 target="_blank">DOI:10.1109/TWC.2013.120713.121948</a><br/> 
 📝 <b>I. A. M. Balapuwaduge</b>, F. Y. Li, and V. Pla, ``On the Performance of Channel Assembling and Fragmentation in Cognitive Radio Networks", \emph{IEEE Transactions on Wireless Communications}, pp. 5661-5675, vol. 13, no. 10, Oct. 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6810832"
-target="_blank">DOI:10.1109/TWC.2014.2322057</a><br/> 
+target="_blank">DOI:10.1109/TWC.2014.2322057</a></font><br/> 
    
 ## Recent Projects
 📝 A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. [Acronym: SOLID-B5G](https://solid-b5g.upb.ro/)<br>
