@@ -71,7 +71,7 @@ The main objective of the EQEI project is to elevate the quality of education an
   
 ### Teaching
 <font size="3">
- <div align="justify" style="background-color: #90EE90">
+ <div align="justify" style="background-color: hsl(120, 60%, 80%)">
   My <b>teaching vision</b> is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates.
 </div><br>
 I have been involved in teaching the following courses at University of Agder.<br>
