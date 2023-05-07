@@ -5,12 +5,13 @@
     <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="500"></td>
     <td>
       <ul>
-        I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. <br/>         
+        I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA.<br/>         
          My research is focused in the following areas:<br/>
          ✍️ Dynamic spectrum sharing in wireless networks<br/>
          ✍️ Machine learning-Based intelligent wireless communication<br/>
          ✍️ Energy-efficient wireless communication<br/>
-         ✍️ Reliability modeling<br/>         
+         ✍️ Analysis of reliability and resilience for wireless networks<br/> 
+         ✍️ Stochastic Process Modeling<br/>
       </ul>
     </td>
   </tr>
