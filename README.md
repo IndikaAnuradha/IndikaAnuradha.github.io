@@ -56,6 +56,7 @@ target="_blank">DOI:10.1109/TWC.2014.2322057</a></li></font><br/>
 
    
 ### Recent Projects
+<font size="3">
 <li>A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. <a href="https://solid-b5g.upb.ro/"
 target="_blank">[Acronym: SOLID-B5G]</a> <br>
 This project is funded by the EEA Norway Grants RO-NO Program 2019. , Project No. RONO-2019-0499.<br>
