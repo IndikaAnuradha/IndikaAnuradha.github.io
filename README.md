@@ -57,7 +57,7 @@ The main objective of this project is to develop a smart monitoring and decision
  📝 Elevating the Quality of Education in ICT towards 2030 through Multilateral Collaborations (2023 - 2026). [Acronym: EQEI](https://www.uia.no/en/research/research-projects/elevating-the-quality-of-education-in-ict-towards-2030-through-multilateral-collaborations-eqei)<br>
 The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.
   
-# Teaching
+## Teaching
 I have been involved in teaching the following courses at University of Agder.<br>
 📚 IKT444: Mobile Communication Networks<br>
 📚 IKT 443: WiFi and Ad Hoc Networking<br>
@@ -66,4 +66,17 @@ I have been involved in teaching the following courses at University of Ruhuna.<
 📚 EE 7209: Digital Signal Processing<br>
 📚 EE 6208: Wireless and Mobile Communications<br>
 📚 EE 5315: Computer Networking<br>
+📚 EE 4310: Communication Theory<br>
+📚 EE 6321: Embedded System Design<br>
+
+## Research Supervision
+I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc students.<br>
+✏️ Thilina N. Weerasinghe: (PhD, graduated 2021, Co-supervisor), now with University of Ruhuna.<br>
+✏️ Dinithi Vithanage: (MSc, graduated 2020, Co-supervisor), now with University of Wollongong.<br>
+✏️ Aasmund Søraa: (MSc, graduated 2019, Main supervisor), now with Klaveness Digital.<br>
+✏️ Lasse Jørgensen: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
+✏️ Diego Centeno Ariza: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
+
+
+
 
