@@ -72,7 +72,7 @@ The main objective of the EQEI project is to elevate the quality of education an
 ### Teaching
 <font size="3">
  <div align="justify" style="background-color: hsl(120, 80%, 90%)">
-  My <b>teaching vision</b> is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates.
+  My <b>teaching vision</b> is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates. In the modern era, students learn better through experience with an inductive approach than the traditional deductive learning approach. Therefore, my philosophy is to create an interactive classroom. 
 </div><br>
 I have been involved in teaching the following courses at University of Agder.<br>
 📚 IKT444: Mobile Communication Networks<br>
@@ -111,4 +111,4 @@ Topic: Autonomous Navigation of a Surveillance Robot in a Simulated Static Indoo
 <li>Amith Mallawaarachchi: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
 Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 5G Massive MIMO Networks <br>
 <li>Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
-Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li></font><br/>
+Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li></font></li><br/>
