@@ -77,27 +77,6 @@ The main objective of this project is to develop a smart monitoring and decision
 target="_blank">[Acronym: EQEI]</a> <br>   
 The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.</li></font><br/>
   
-### Teaching
-<font size="3">
- <div align="justify" style="background-color: hsl(120, 90%, 95%)">
-  My <b>teaching vision</b> is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates. In the modern era, students learn better through experience with an inductive approach than the traditional deductive learning approach. Therefore, my philosophy is to create an interactive classroom. 
-</div><br>
-   
-I have been involved in teaching the following courses at University of Agder.<br>
-📚 IKT444: Mobile Communication Networks<br>
-📚 IKT 443: WiFi and Ad Hoc Networking<br>
-   
-I have been involved in teaching the following courses at University of Ruhuna.<br>
-📚 EE 8210: Digital Communications<br>
-📚 EE 7209: Digital Signal Processing<br>
-📚 EE 6208: Wireless and Mobile Communications<br>
-📚 EE 5315: Computer Networking<br>
-📚 EE 4310: Communication Theory<br>
-📚 EE 6321: Embedded System Design<br>
-   
-I have developed a Learning Object Repository (LOR) (updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/view/ee7209-dsp/home"
-target="_blank">LINK</a></font><br/>
-
 ### Research Highlights 
 <table style="border-collapse: collapse;">
    <tr>
@@ -138,6 +117,27 @@ target="_blank">IEEE ICC</a> paper, I proposed a machine learning method to enab
     </td>
   </tr>
 </table> 
+
+### Teaching
+<font size="3">
+ <div align="justify" style="background-color: hsl(120, 90%, 95%)">
+  My <b>teaching vision</b> is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates. In the modern era, students learn better through experience with an inductive approach than the traditional deductive learning approach. Therefore, my philosophy is to create an interactive classroom. 
+</div><br>
+   
+I have been involved in teaching the following courses at University of Agder.<br>
+📚 IKT444: Mobile Communication Networks<br>
+📚 IKT 443: WiFi and Ad Hoc Networking<br>
+   
+I have been involved in teaching the following courses at University of Ruhuna.<br>
+📚 EE 8210: Digital Communications<br>
+📚 EE 7209: Digital Signal Processing<br>
+📚 EE 6208: Wireless and Mobile Communications<br>
+📚 EE 5315: Computer Networking<br>
+📚 EE 4310: Communication Theory<br>
+📚 EE 6321: Embedded System Design<br>
+   
+I have developed a Learning Object Repository (LOR) (updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/view/ee7209-dsp/home"
+target="_blank">LINK</a></font><br/>
 
 ### Research Supervision
 I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc students.<br>
