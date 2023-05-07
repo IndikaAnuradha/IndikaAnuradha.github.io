@@ -2,6 +2,9 @@
 Email: indika.balapuwaduge@uia.no<br/>
 Office A2101, Electronics and IoT Group, Department of ICT<br/>
 Faculty of Engineering and Science, University of Agder, Jon Lilletuns vei 9, Grimstad, Norway<br/>
+<a href="https://scholar.google.com/citations?user=xzw4570AAAAJ&hl=en"
+target="_blank">Google Scholar</a>   <a href="https://www.researchgate.net/profile/Indika\_Balapuwaduge"
+target="_blank">ResearchGate</a><br/>  <br/>
 
 <table style="border-collapse: collapse;">
    <tr>
