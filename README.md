@@ -143,4 +143,13 @@ target="_blank">TVT article</a>, we proposes and analyses a dynamic channel rese
       </ul>      
     </td>
   </tr>
+    <tr>
+    <td><b>Machine Learning in Wireless Communications</b></td>
+    <td>
+      <ul>
+         <div align="justify" style="background-color: hsl(60, 90%, 95%)">Machine learning is increasingly being applied to various aspects of wireless communications. The use of machine learning in wireless communications holds great promise for improving the efficiency, reliability, and security of wireless networks. In this<a href="https://doi.org/10.1109/ICC.2019.8761913"
+target="_blank">IEEE ICC </a> paper, I proposed a machine learning method to enable effective cell association in massive MTC networks. The concept of the solution can be applied in 5G wireless networks which have a large number of devices. Hidden Markov models are taken as the mathematical tool for predicting traffic behavior. </div><br/>     
+      </ul>      
+    </td>
+  </tr>
 </table>   
