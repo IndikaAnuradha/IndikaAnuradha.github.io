@@ -35,7 +35,7 @@ target="_blank">GitHub</a>, <br/>
 <font size="3">
 <li><b>Researcher:</b> Department of Information and Communications Technology (ICT), University of Agder (Nov 2022 - present)</li>
 <li><b>Senior Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (May 2020 - Oct 2022)</li>
-<li><b>Post-doctoral Research Fellow:</b> Department of Information and Communications Technology, University of Agder (Mar 2017 - Mar 2020)</li>
+<li><b>Post-doctoral Researcher:</b> Department of Information and Communications Technology, University of Agder (Mar 2017 - Mar 2020)</li>
 <li><b>Doctoral Research Fellow:</b> Department of Information and Communications Technology, University of Agder (Sep 2012 - Nov 2016)</li>
 <li><b>Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (Aug 2009 - Aug 2010)</li>
 <li><b>Engineer:</b> 	HUAWEI Technologies Lanka Co. (LTD), Sri Lanka (11.2008 - 08.2009)</li>
