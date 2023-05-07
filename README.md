@@ -88,7 +88,6 @@ I have developed a Learning Object Repository (LOR) (updating) for the students 
 target="_blank">LINK</a></font><br/>
 
 ### Research Highlights 
-
 <table style="border-collapse: collapse;">
    <tr>
     <td><b>Dynamic Spectrum Allocation (DSA) in Wireless Networks</b></td>
