@@ -28,15 +28,15 @@ target="_blank">GitHub</a>, <br/>
 ### Education
 <font size="3">  
 <li><b>Doctor of Philosophy</b> in Information and Communication Technology (Sep 2012 - Nov 2016) University of Agder (UiA), Norway</li>
-<li><b>Master of Science</b> in Information and Communication Technology (Aug 2010 - Jul 2012) University of Agder (UiA), Norway</li>
+<li><b>Master of Science</b> in Information and Communication Technology (Aug 2010 - Jul 2012) University of Agder, Norway</li>
 <li><b>Bachelor of Science</b> in Engineering (Sep 2003 - Jun 2008) University of Ruhuna, Sri Lanka</li></font><br/>
 
 ### Employment History
 <font size="3">
 <li><b>Researcher:</b> Department of Information and Communications Technology (ICT), University of Agder (Nov 2022 - present)</li>
 <li><b>Senior Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (May 2020 - Oct 2022)</li>
-<li><b>Post-doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (Mar 2017 - Mar 2020)</li>
-<li><b>Doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (Sep 2012 - Nov 2016)</li>
+<li><b>Post-doctoral Research Fellow:</b> Department of Information and Communications Technology, University of Agder (Mar 2017 - Mar 2020)</li>
+<li><b>Doctoral Research Fellow:</b> Department of Information and Communications Technology, University of Agder (Sep 2012 - Nov 2016)</li>
 <li><b>Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (Aug 2009 - Aug 2010)</li>
 <li><b>Engineer:</b> 	HUAWEI Technologies Lanka Co. (LTD), Sri Lanka (11.2008 - 08.2009)</li>
 <li><b>Student Instructor:</b> Department of Inter-disciplinary Studies, University of Ruhuna (Jul 2008 - Nov 2008) </li></font><br/>
