@@ -33,13 +33,13 @@ target="_blank">GitHub</a>, <br/>
 
 ### Employment History
 <font size="3">
-<li><b>Researcher:</b> Department of Information and Communications Technology (ICT), University of Agder (11.2022 - present)</li>
-<li><b>Senior Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (05.2020 - 11.2022)</li>
-<li><b>Post-doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (03.2017 - 03.2020)</li>
-<li><b>Doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (09.2012 - 11.2016)</li>
-<li><b>Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (08.2009 - 08.2010)</li>
+<li><b>Researcher:</b> Department of Information and Communications Technology (ICT), University of Agder (Nov 2022 - present)</li>
+<li><b>Senior Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (May 2020 - Oct 2022)</li>
+<li><b>Post-doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (Mar 2017 - Mar 2020)</li>
+<li><b>Doctoral Research Fellow:</b> Department of Information and Communications Technology (ICT), University of Agder (Sep 2012 - Nov 2016)</li>
+<li><b>Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (Aug 2009 - Aug 2010)</li>
 <li><b>Engineer:</b> 	HUAWEI Technologies Lanka Co. (LTD), Sri Lanka (11.2008 - 08.2009)</li>
-<li><b>Student Instructor:</b> Department of Inter-disciplinary Studies, University of Ruhuna (07.2008 - 11.2008) </li></font><br/>
+<li><b>Student Instructor:</b> Department of Inter-disciplinary Studies, University of Ruhuna (Jul 2008 - Nov 2008) </li></font><br/>
 
 ### Journal Papers
 <font size="3">
