@@ -80,4 +80,5 @@ I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc 
 ✏️ Elmira Jalali: (MSc, graduated 2013, Co-supervisor), now Senior Network Reliability Engineer at Yahoo.<br>
 ✏️ Gayan Dilanka: (BSc, graduated 2021, Main supervisor), now with Dialog Axiata PLC.<br>
 ✏️ Harith Lakmith: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
+✏️ Amith Mallawaarachchi: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
 ✏️ Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
