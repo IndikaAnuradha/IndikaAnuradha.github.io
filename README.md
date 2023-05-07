@@ -76,7 +76,7 @@ I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc 
 ✏️ Aasmund Søraa: (MSc, graduated 2019, Main supervisor), now with Klaveness Digital.<br>
 ✏️ Lasse Jørgensen: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
 ✏️ Diego Centeno Ariza: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
-
-
+✏️ Kalpanie H. V. Mendis: (MSc, graduated 2017, Co-supervisor), now with the Norwegian University of Science and Technology.<br>
+✏️ Elmira Jalali: (MSc, graduated 2013, Co-supervisor), now Senior Network Reliability Engineer at Yahoo.<br>
 
 
