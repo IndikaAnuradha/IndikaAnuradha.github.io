@@ -5,7 +5,7 @@
     <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="500"></td>
     <td>
       <ul>
-        I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. <br/>         
+        <div align="justify">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>         
          My research is focused in the following areas:<br/>
          ✍️ Dynamic spectrum sharing in wireless networks<br/>
          ✍️ Machine learning-Based intelligent wireless communication<br/>
