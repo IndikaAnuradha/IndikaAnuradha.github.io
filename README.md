@@ -112,7 +112,7 @@ Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 
 <li>Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
 Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li><br/>
    
-### Research Highlights   
+### Research Highlights  
 
 <table style="border-collapse: collapse;">
    <tr>
@@ -128,7 +128,7 @@ target="_blank">this TWC</a>, we propose a priority-based queuing system which c
     <td><b>Resiliency and Dependability Analysis</b></td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(60, 80%, 90%)">The spectrum resource for mobile users is very dynamic. The spectrum availability is highly dependent on traffic behaviours, e.g. in a cognitive radio network, licenced user's random arrivals and departures on their licensed channels. Secondary users may prolong the sensing period to improve sensing accuracy under the uncertain situations, which however consume more sensing energy. To analyze spectrum availability in CRNs, in <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7500036"
+         <div align="justify" style="background-color: hsl(60, 90%, 95%)">The spectrum resource for mobile users is very dynamic. The spectrum availability is highly dependent on traffic behaviours, e.g. in a cognitive radio network, licenced user's random arrivals and departures on their licensed channels. Secondary users may prolong the sensing period to improve sensing accuracy under the uncertain situations, which however consume more sensing energy. To analyze spectrum availability in CRNs, in <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7500036"
 target="_blank">this TVT</a>, we define a few reliability metrics for channel access in multichannel CRNs that are analogous to the concepts of reliability and availability in classical dependability theory.  </div><br/>     
       </ul>      
     </td>
