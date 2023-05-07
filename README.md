@@ -5,7 +5,7 @@
     <td><img src="https://res.cloudinary.com/uiagder/image/upload/v1683398423/indikab_profil" width="500"></td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(120, 80%, 90%)">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>         
+         <div align="justify" style="background-color: hsl(120, 90%, 95%)">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>         
          My research is focused in the following areas:<br/>
          ✍️ Dynamic spectrum sharing in wireless networks<br/>
          ✍️ Machine learning-Based intelligent wireless communication<br/>
@@ -119,7 +119,7 @@ Topic: Acoustic echo cancellation for handsfree applications using adaptive filt
     <td><b>Dynamic Spectrum Allocation (DSA) in Wireless Networks</b></td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(60, 80%, 90%)">While pursuing my Doctoral degree, my research centered around dynamic spectrum allocation (DSA) strategies aimed at achieving satisfactory performance for both primary and secondary users in cognitive radio networks. The focus of my dissertation was on facilitating greater channel access opportunities for secondary users through the implementation of four techniques: channel aggregation, priority-based queues, spectrum leasing, and channel reservation. Enabling real-time and quality of service (QoS) applications in wireless communication networks is a challenging task. This is due to the certain characteristics of such networks, like limited battery capacity, limited processing power, and limited storage. In <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
+         <div align="justify" style="background-color: hsl(60, 90%, 95%)">While pursuing my Doctoral degree, my research centered around dynamic spectrum allocation (DSA) strategies aimed at achieving satisfactory performance for both primary and secondary users in cognitive radio networks. The focus of my dissertation was on facilitating greater channel access opportunities for secondary users through the implementation of four techniques: channel aggregation, priority-based queues, spectrum leasing, and channel reservation. Enabling real-time and quality of service (QoS) applications in wireless communication networks is a challenging task. This is due to the certain characteristics of such networks, like limited battery capacity, limited processing power, and limited storage. In <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
 target="_blank">this TWC</a>, we propose a priority-based queuing system which can be applied over a CRN where the queuing schemes are introduced based on the delay tolerance of interrupted services. </div><br/>         
        </ul>
     </td>
@@ -137,7 +137,7 @@ target="_blank">this TVT</a>, we define a few reliability metrics for channel ac
     <td><b>Energy-efficient Communications</b></td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(60, 80%, 90%)">In <a href="https://ieeexplore.ieee.org/document/9335255"
+         <div align="justify" style="background-color: hsl(60, 90%, 95%)">In <a href="https://ieeexplore.ieee.org/document/9335255"
 target="_blank">this TCOMM</a> paper, an energy-efficient grant-free random access protocol which performs dynamic slot allocation in each 5G new radio is proposed. We develop a two-dimensional Markov chain model which integrates different types of traffic via a pseudo-aggregated process. In another <a href="http://ieeexplore.ieee.org/document/8107521"
 target="_blank">TVT article</a>, we proposes and analyses a dynamic channel reservation (DCR) algorithm for a multi-channel communication network. The key idea of this DCR algorithm is to anticipate resource needs and proactively implement energy efficient measures to ensure QoS requirements of users are met using adaptive resource reservation schemes. </div><br/>     
       </ul>      
