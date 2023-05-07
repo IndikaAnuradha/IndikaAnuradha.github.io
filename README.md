@@ -128,7 +128,8 @@ target="_blank">the article</a>, we propose a priority-based queuing system whic
     <td>Resiliency and Dependability Analysis</td>
     <td>
       <ul>
-         <div align="justify" style="background-color: hsl(60, 80%, 90%)">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>     
+         <div align="justify" style="background-color: hsl(60, 80%, 90%)">The spectrum resource for mobile users is very dynamic. The spectrum availability is highly dependent on traffic behaviours, e.g. in a cognitive radio network, licenced user's random arrivals and departures on their licensed channels. Secondary users may prolong the sensing period to improve sensing accuracy under the uncertain situations, which however consume more sensing energy. To analyze spectrum availability in CRNs, in <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7500036"
+target="_blank">the article</a>, we define a few reliability metrics for channel access in multichannel CRNs that are analogous to the concepts of reliability and availability in classical dependability theory.  </div><br/>     
       </ul>      
     </td>
   </tr>
