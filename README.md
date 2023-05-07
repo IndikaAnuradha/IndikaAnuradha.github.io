@@ -57,15 +57,15 @@ target="_blank">DOI:10.1109/TWC.2014.2322057</a></li></font><br/>
    
 ### Recent Projects
 <font size="3">
-<li>A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. <a href="https://solid-b5g.upb.ro/"
+<li><b>A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services.</b> <a href="https://solid-b5g.upb.ro/"
 target="_blank">[Acronym: SOLID-B5G]</a> <br>
 This project is funded by the EEA Norway Grants RO-NO Program 2019. , Project No. RONO-2019-0499.<br>
 In this project, I contributed for proposal writing. This project is one of the 26 projects selected from 285 proposals which were submitted to the same call in Dec. 2019. Currently, I am serving as a Research Engineer.</li>
-<li>Orchestrating Internet of Things and Machine Learning for Early Risk Detection to Ensure Inpatients Safety. <a href="https://prosjektbanken.forskningsradet.no/project/FORISS/309257"
+<li><b>Orchestrating Internet of Things and Machine Learning for Early Risk Detection to Ensure Inpatients Safety.</b> <a href="https://prosjektbanken.forskningsradet.no/project/FORISS/309257"
 target="_blank">[Acronym: StaySafe]</a> <br>
 This project is funded by the IKTPLUS-ICT and Digital Innovation, Project No. 309257.<br>
 The main objective of this project is to develop a smart monitoring and decision-making support system, which will be built based on non-intrusive IoT devices and ML aided predictive analytics, for behavior analysis and prevention of agitation and accidents for inpatients in hospital healthcare. In this project, I am serving as a Researcher.</li>
-<li>Elevating the Quality of Education in ICT towards 2030 through Multilateral Collaborations (2023 - 2026). <a href="https://www.uia.no/en/research/research-projects/elevating-the-quality-of-education-in-ict-towards-2030-through-multilateral-collaborations-eqei"
+<li><b>Elevating the Quality of Education in ICT towards 2030 through Multilateral Collaborations (2023 - 2026). </b><a href="https://www.uia.no/en/research/research-projects/elevating-the-quality-of-education-in-ict-towards-2030-through-multilateral-collaborations-eqei"
 target="_blank">[Acronym: EQEI]</a> <br>   
 The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.</li></font><br/>
   
@@ -81,7 +81,7 @@ I have been involved in teaching the following courses at University of Ruhuna.<
 📚 EE 5315: Computer Networking<br>
 📚 EE 4310: Communication Theory<br>
 📚 EE 6321: Embedded System Design<br>
-I have developed a Learning Object Repository (LOR) (still updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/view/ee7209-dsp/home"
+I have developed a Learning Object Repository (LOR) (updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/view/ee7209-dsp/home"
 target="_blank">LINK</a></font><br/>
 
 ### Research Supervision
