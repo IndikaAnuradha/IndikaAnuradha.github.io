@@ -18,7 +18,6 @@
     <tr>
     <td>XXX</td>
     <td>
-     <td>
       <ul>
          <div align="justify" style="background-color: hsl(120, 80%, 90%)">I am a Researcher at the Department of Information and Communication Technology (ICT) in University of Agder (UiA), Norway. I hold Msc and PhD degrees in Information and Communication Technology from the UiA. I received the 2012 Best Master's Thesis Award from the Faculty of Engineering and Science, UiA. </div><br/>         
          My research is focused in the following areas:<br/>
