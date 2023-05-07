@@ -113,6 +113,7 @@ Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 
 Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li><br/>
    
 ## Research Highlights 
+
 <table style="border-collapse: collapse;">
    <tr>
     <td><b>Dynamic Spectrum Allocation (DSA) in Wireless Networks</b></td>
