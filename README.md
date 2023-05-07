@@ -138,7 +138,7 @@ target="_blank">this TVT</a>, we define a few reliability metrics for channel ac
     <td>
       <ul>
          <div align="justify" style="background-color: hsl(60, 90%, 95%)">In <a href="https://ieeexplore.ieee.org/document/9335255"
-target="_blank">this TCOMM</a> paper, an energy-efficient grant-free random access protocol which performs dynamic slot allocation in each 5G new radio is proposed. We develop a two-dimensional Markov chain model which integrates different types of traffic via a pseudo-aggregated process. In another <a href="http://ieeexplore.ieee.org/document/8107521"
+target="_blank">this TCOMM</a> paper, an energy-efficient grant-free random access protocol which performs dynamic slot allocation in each 5G new radio is proposed. We develop a two-dimensional Markov chain model which integrates different types of traffic via a pseudo-aggregated process. This paper was awarded <b>the runner-up Best Journal Paper award</b> for the year 2021 by the Communication Systems Integration and Modelling (CSIM) Technical Committee of IEEE Communications Society (COMSOC). In another <a href="http://ieeexplore.ieee.org/document/8107521"
 target="_blank">TVT article</a>, we proposes and analyses a dynamic channel reservation (DCR) algorithm for a multi-channel communication network. The key idea of this DCR algorithm is to anticipate resource needs and proactively implement energy efficient measures to ensure QoS requirements of users are met using adaptive resource reservation schemes. </div><br/>     
       </ul>      
     </td>
