@@ -88,7 +88,6 @@ I have developed a Learning Object Repository (LOR) (updating) for the students 
 target="_blank">LINK</a></font><br/>
 
 ### Research Supervision
-<font size="3">
 I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc students.<br>
 <li>Thilina N. Weerasinghe: (PhD, graduated 2021, Co-supervisor), now with University of Ruhuna.<br>
 Topic: Ultra-Reliable communication in 5G networks<br> 
@@ -111,7 +110,7 @@ Topic: Autonomous Navigation of a Surveillance Robot in a Simulated Static Indoo
 <li>Amith Mallawaarachchi: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
 Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 5G Massive MIMO Networks <br>
 <li>Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
-Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li></font><br/>
+Topic: Acoustic echo cancellation for handsfree applications using adaptive filters</li><br/>
    
 ### Research Highlights
    
