@@ -52,7 +52,8 @@ target="_blank">DOI:10.1109/TCOMM.2016.2521723</a></li>
 <li><b>I. A. M. Balapuwaduge</b>, L. Jiao, V. Pla, and F. Y. Li, Channel Assembling with Priority-based Queues in Cognitive Radio Networks: Strategies and Performance Evaluation, IEEE Transactions on Wireless Communications, pp. 630-645, vol. 13, no. 2, Feb. 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
 target="_blank">DOI:10.1109/TWC.2013.120713.121948</a></li>
 <li><b>I. A. M. Balapuwaduge</b>, F. Y. Li, and V. Pla, ``On the Performance of Channel Assembling and Fragmentation in Cognitive Radio Networks", \emph{IEEE Transactions on Wireless Communications}, pp. 5661-5675, vol. 13, no. 10, Oct. 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6810832"
-target="_blank">DOI:10.1109/TWC.2014.2322057</a></font></li> 
+target="_blank">DOI:10.1109/TWC.2014.2322057</a></li></font><br/>
+
    
 ## Recent Projects
 <li>A Massive MIMO Enabled IoT Platform with Networking Slicing for Beyond 5G IoV/V2X and Maritime Services. [Acronym: SOLID-B5G](https://solid-b5g.upb.ro/)<br>
@@ -62,9 +63,10 @@ In this project, I contributed for proposal writing. This project is one of the 
 This project is funded by the IKTPLUS-ICT and Digital Innovation, Project No. 309257.<br>
 The main objective of this project is to develop a smart monitoring and decision-making support system, which will be built based on non-intrusive IoT devices and ML aided predictive analytics, for behavior analysis and prevention of agitation and accidents for inpatients in hospital healthcare. In this project, I am serving as a Researcher.</li>
 <li>Elevating the Quality of Education in ICT towards 2030 through Multilateral Collaborations (2023 - 2026). [Acronym: EQEI](https://www.uia.no/en/research/research-projects/elevating-the-quality-of-education-in-ict-towards-2030-through-multilateral-collaborations-eqei)<br>
-The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.</li>
+The main objective of the EQEI project is to elevate the quality of education and to increase the prominence of our study programs through multilateral education and research collaborations. The project promotes research-based education primarily at the Master level and complementarily at the Bachelor and PhD levels within but not limited to the thematic area of ICT by establishing sustainable partnerships among UiA, uOttawa, and IITBBS. In this project, I will be involved in curriculum development.</li></font><br/>
   
 ### Teaching
+<font size="3">
 I have been involved in teaching the following courses at University of Agder.<br>
 📚 IKT444: Mobile Communication Networks<br>
 📚 IKT 443: WiFi and Ad Hoc Networking<br>
@@ -76,29 +78,30 @@ I have been involved in teaching the following courses at University of Ruhuna.<
 📚 EE 4310: Communication Theory<br>
 📚 EE 6321: Embedded System Design<br>
 I have developed a Learning Object Repository (LOR) (still updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/view/ee7209-dsp/home"
-target="_blank">LINK</a><br/>
+target="_blank">LINK</a></font><br/>
 
-## Research Supervision
+### Research Supervision
+<font size="3">
 I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc students.<br>
-✏️ Thilina N. Weerasinghe: (PhD, graduated 2021, Co-supervisor), now with University of Ruhuna.<br>
-Topic: Ultra-Reliable communication in 5G networks <br>
-✏️ Dinithi Vithanage: (MSc, graduated 2020, Co-supervisor), now with University of Wollongong.<br>
+<li>Thilina N. Weerasinghe: (PhD, graduated 2021, Co-supervisor), now with University of Ruhuna.<br>
+Topic: Ultra-Reliable communication in 5G networks </li>
+<li>Dinithi Vithanage: (MSc, graduated 2020, Co-supervisor), now with University of Wollongong.<br>
 Topic: Efficient cell association techniques in 5G communication networks <br>
-✏️ Aasmund Søraa: (MSc, graduated 2019, Main supervisor), now with Klaveness Digital.<br>
+<li>Aasmund Søraa: (MSc, graduated 2019, Main supervisor), now with Klaveness Digital.<br>
 Topic: A Machine Learning based Prediction Model for Bursty Traffic in 5G mMTC Networks <br>
-✏️ Lasse Jørgensen: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
+<li>Lasse Jørgensen: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
 Topic: Multi-client traffic emulation for On-board WiFi networks: Implementation and real-Life experiments <br>
-✏️ Diego Centeno Ariza: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
+<li>Diego Centeno Ariza: (MSc, graduated 2018, Main supervisor), now with Atea Norge.<br>
 Topic: Multi-client traffic emulation for On-board WiFi networks: Implementation and real-Life experiments <br>
-✏️ Kalpanie H. V. Mendis: (MSc, graduated 2017, Co-supervisor), now with the Norwegian University of Science and Technology.<br>
+<li>Kalpanie H. V. Mendis: (MSc, graduated 2017, Co-supervisor), now with the Norwegian University of Science and Technology.<br>
 Topic: Ultra reliable communication in 5G networks: A dependability-based availability analysis in the space domain <br>
-✏️ Elmira Jalali: (MSc, graduated 2013, Co-supervisor), now Senior Network Reliability Engineer at Yahoo.<br>
+<li>Elmira Jalali: (MSc, graduated 2013, Co-supervisor), now Senior Network Reliability Engineer at Yahoo.<br>
 Topic: Channel aggregation for underlay cognitive radio networks: Access schemes and performance evaluation <br>
-✏️ Gayan Dilanka: (BSc, graduated 2021, Main supervisor), now with Dialog Axiata PLC.<br>
+<li>Gayan Dilanka: (BSc, graduated 2021, Main supervisor), now with Dialog Axiata PLC.<br>
 Topic: Orchestrator for Edge Computing Platforms to Provision Cloud Services at the Mobile Edge <br>
-✏️ Harith Lakmith: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
+<li>Harith Lakmith: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
 Topic: Autonomous Navigation of a Surveillance Robot in a Simulated Static Indoor Environment <br>
-✏️ Amith Mallawaarachchi: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
+<li>Amith Mallawaarachchi: (BSc, graduated 2022, Main supervisor), now with Millennium IT ESP.<br>
 Topic: QoS-aware Dynamic Resource Allocation Schemes for Heterogeneous users in 5G Massive MIMO Networks <br>
-✏️ Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
-Topic: Acoustic echo cancellation for handsfree applications using adaptive filters <br>
+<li>Isuru Dahanayake: (BSc, graduated 2011, Main supervisor), now with Samsung Electronics.<br>
+Topic: Acoustic echo cancellation for handsfree applications using adaptive filters </li></font><br/>
