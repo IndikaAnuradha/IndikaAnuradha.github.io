@@ -10,8 +10,7 @@
          ✍️ Dynamic spectrum sharing in wireless networks<br/>
          ✍️ Machine learning-Based intelligent wireless communication<br/>
          ✍️ Energy-efficient wireless communication<br/>
-         ✍️ Reliability modeling<br/>
-         
+         ✍️ Reliability modeling<br/>         
       </ul>
     </td>
   </tr>
