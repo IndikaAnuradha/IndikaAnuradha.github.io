@@ -132,4 +132,13 @@ target="_blank">this TVT</a>, we define a few reliability metrics for channel ac
       </ul>      
     </td>
   </tr>
+    <tr>
+    <td><b>Energy-efficient Communications</b></td>
+    <td>
+      <ul>
+         <div align="justify" style="background-color: hsl(60, 80%, 90%)">In <a href="https://ieeexplore.ieee.org/document/9335255"
+target="_blank">this TCOMM</a> paper, an energy-efficient grant-free random access protocol which performs dynamic slot allocation in each 5G new radio is proposed. We develop a two-dimensional Markov chain model which integrates different types of traffic via a pseudo-aggregated process.  </div><br/>     
+      </ul>      
+    </td>
+  </tr>
 </table>   
