@@ -115,20 +115,20 @@ Topic: Acoustic echo cancellation for handsfree applications using adaptive filt
 ### Research Highlights   
 <table style="border-collapse: collapse;">
    <tr>
-    <td>Dynamic Spectrum Allocation (DSA) in Wireless Networks</td>
+    <td><b>Dynamic Spectrum Allocation (DSA) in Wireless Networks</b></td>
     <td>
       <ul>
          <div align="justify" style="background-color: hsl(60, 80%, 90%)">While pursuing my Doctoral degree, my research centered around dynamic spectrum allocation (DSA) strategies aimed at achieving satisfactory performance for both primary and secondary users in cognitive radio networks. The focus of my dissertation was on facilitating greater channel access opportunities for secondary users through the implementation of four techniques: channel aggregation, priority-based queues, spectrum leasing, and channel reservation. Enabling real-time and quality of service (QoS) applications in wireless communication networks is a challenging task. This is due to the certain characteristics of such networks, like limited battery capacity, limited processing power, and limited storage. In <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
-target="_blank">the article</a>, we propose a priority-based queuing system which can be applied over a CRN where the queuing schemes are introduced based on the delay tolerance of interrupted services. </div><br/>         
+target="_blank">this TWC</a>, we propose a priority-based queuing system which can be applied over a CRN where the queuing schemes are introduced based on the delay tolerance of interrupted services. </div><br/>         
        </ul>
     </td>
   </tr>
     <tr>
-    <td>Resiliency and Dependability Analysis</td>
+    <td><b>Resiliency and Dependability Analysis</b></td>
     <td>
       <ul>
          <div align="justify" style="background-color: hsl(60, 80%, 90%)">The spectrum resource for mobile users is very dynamic. The spectrum availability is highly dependent on traffic behaviours, e.g. in a cognitive radio network, licenced user's random arrivals and departures on their licensed channels. Secondary users may prolong the sensing period to improve sensing accuracy under the uncertain situations, which however consume more sensing energy. To analyze spectrum availability in CRNs, in <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7500036"
-target="_blank">the article</a>, we define a few reliability metrics for channel access in multichannel CRNs that are analogous to the concepts of reliability and availability in classical dependability theory.  </div><br/>     
+target="_blank">this TVT</a>, we define a few reliability metrics for channel access in multichannel CRNs that are analogous to the concepts of reliability and availability in classical dependability theory.  </div><br/>     
       </ul>      
     </td>
   </tr>
