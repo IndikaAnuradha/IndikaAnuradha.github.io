@@ -71,8 +71,11 @@ The main objective of the EQEI project is to elevate the quality of education an
   
 ### Teaching
 <font size="3">
- <div align="justify"> My teaching vision is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates.</div><br/>
-I have been involved in teaching the following courses at University of Agder.<br>
+ <div align="justify" style="background-color: green">
+  My <b>teaching vision</b> is to stimulate learning by engaging students in their learning environment, promoting higher order thinking skills while recognizing their opinions and background to produce highly innovative, creative, skilled and dedicated graduates.
+</div>
+<br>
+I have been involved in teaching the following courses at University of Agder.
 📚 IKT444: Mobile Communication Networks<br>
 📚 IKT 443: WiFi and Ad Hoc Networking<br>
 I have been involved in teaching the following courses at University of Ruhuna.<br>
