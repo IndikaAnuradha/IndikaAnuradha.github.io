@@ -17,6 +17,14 @@
   </tr>
 </table>
 
+## Education
+🎓 Doctor of Philosophy in Information and Communication Technology (Sep 2012 - Nov 2016)<br/>
+University of Agder (UiA), Norway<br/>
+🎓 Master of Science in Information and Communication Technology (Aug 2010 - Jul 2012)<br/>
+University of Agder (UiA), Norway<br/>
+🎓 Bachelor of Science in Engineering (Sep 2003 - Jun 2008)<br/>
+University of Ruhuna, Sri Lanka<br/>
+
 ## Employment History
 💼 <b>Researcher:</b> Department of Information and Communications Technology (ICT), University of Agder (11.2022 - present)<br/>
 💼 <b>Senior Lecturer:</b> Department of Electrical and Information Engineering (EIE), University of Ruhuna (05.2020 - 11.2022) <br/>
