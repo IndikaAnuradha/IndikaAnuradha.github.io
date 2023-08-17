@@ -127,6 +127,7 @@ target="_blank">IEEE ICC</a> paper, I proposed a machine learning method to enab
 </div><br>
    
 I have been involved in teaching the following courses at University of Agder.<br>
+📚 IKT414: Security and IoT<br>
 📚 IKT444: Mobile Communication Networks<br>
 📚 IKT 443: WiFi and Ad Hoc Networking<br>
    
