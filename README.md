@@ -146,6 +146,8 @@ target="_blank">LINK</a></font><br/>
 I have acted as supervisor and co-supervisor for the following PhD, MSc and BSc students.<br>
 <li>Thilina N. Weerasinghe: (PhD, graduated 2021, Co-supervisor), now with University of Ruhuna.<br>
 Topic: Ultra-Reliable communication in 5G networks<br> 
+<li>Pål Karlsen, Martin Mollov: (MSc, graduated 2023, Supervisor).<br>
+Topic: Assessment and Analysis of Mental Health Patient Datasets Based on Non-Wearable Sensors <br>
 <li>Dinithi Vithanage: (MSc, graduated 2020, Co-supervisor), now with University of Wollongong.<br>
 Topic: Efficient cell association techniques in 5G communication networks <br>
 <li>Aasmund Søraa: (MSc, graduated 2019, Main supervisor), now with Klaveness Digital.<br>
