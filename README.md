@@ -71,6 +71,10 @@ target="_blank">DOI:10.1002/ett.2928</a></li></font><br/>
 target="_blank">[Acronym: SOLID-B5G]</a> <br>
 This project is funded by the EEA Norway Grants RO-NO Program 2019. , Project No. RONO-2019-0499.<br>
 In this project, I contributed for proposal writing. This project is one of the 26 projects selected from 285 proposals which were submitted to the same call in Dec. 2019. Currently, I am serving as a Research Engineer.</li>
+<li><b>Battery fire detection via IR Cameras.</b> <a href="https://www.uia.no/en/about-uia/projects/students-in-research-projects/guidelines-students-in-research-projects"
+target="_blank">[Students in research projects]</a> <br>
+This project is funded (20K NOK) by University of Agder under Students in research and innovation projects..<br>
+</li>
 <li><b>Orchestrating Internet of Things and Machine Learning for Early Risk Detection to Ensure Inpatients Safety.</b> <a href="https://prosjektbanken.forskningsradet.no/project/FORISS/309257"
 target="_blank">[Acronym: StaySafe]</a> <br>
 This project is funded by the IKTPLUS-ICT and Digital Innovation, Project No. 309257.<br>
