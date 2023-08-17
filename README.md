@@ -143,7 +143,7 @@ I have been involved in teaching the following courses at University of Ruhuna.<
 📚 EE 4310: Communication Theory<br>
 📚 EE 6321: Embedded System Design<br>
    
-I have developed a Learning Object Repository (LOR) (updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/view/ee7209-dsp/home"
+I have developed a Learning Object Repository (LOR) (updating) for the students who are learning Digital Signal Processing as a undergraduate level subject. You can access this LOR via this <a href="https://sites.google.com/eie.ruh.ac.lk/ee7209-dsp?usp=sharing"
 target="_blank">LINK</a></font><br/>
 
 ### Research Supervision
