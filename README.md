@@ -1,4 +1,4 @@
-## Indika A. M. Balapuwaduge
+## Indika A. M. Balapuwaduge (Senior Member, IEEE)
 Email: indika.balapuwaduge@uia.no<br/>
 Office A2101, Electronics and IoT Group, Department of ICT<br/>
 Faculty of Engineering and Science, University of Agder, Jon Lilletuns vei 9, Grimstad, Norway<br/>
