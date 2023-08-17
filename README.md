@@ -19,7 +19,7 @@ target="_blank">GitHub</a>, <br/>
          ✍️ Machine learning-Based intelligent wireless communication<br/>
          ✍️ Energy-efficient wireless communication<br/>
          ✍️ Analysis of reliability and resilience for wireless networks<br/> 
-         ✍️ Stochastic Process Modeling<br/>
+         ✍️ Security in Internet of Things<br/>
       </ul>
     </td>
   </tr>   
